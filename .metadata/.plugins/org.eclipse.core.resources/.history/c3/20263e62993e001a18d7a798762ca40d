@@ -6,7 +6,13 @@
 </head>
 <body>
 
+<<<<<<< HEAD:.metadata/.plugins/org.eclipse.core.resources/.history/c3/20263e62993e001a18d7a798762ca40d
 <h1>Welcome to Jugaadfunda Innovations LLP.</h1>
+=======
+<h1>Welcome to Jugaadfunda innovations LLp.</h1>
+<h2>second heading</h2>
+<h3>Third Heading</h3>
+>>>>>>> master:.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/DemoProject/index.html
 
 </body>
 </html>
